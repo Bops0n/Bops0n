@@ -29,28 +29,28 @@
 ## 🚀 Featured Projects
 
 ### 🌐 Web Applications
-**[🛒 Kacha Home](https://github.com/your-username/kacha-home)**
+**[🛒 Kacha Home](https://github.com/Bops0n/new-kacha)**
 *E-Commerce Platform with Admin Dashboard*
 * **Tech:** Next.js, TypeScript, PostgreSQL, DaisyUI
 * ระบบอีคอมเมิร์ซครบวงจร พร้อมระบบจัดการสินค้าและรายงานยอดขายหลังบ้าน
 
-**[🏸 Smurf Badminton Reserved](https://github.com/your-username/smurf-badminton-reserved)**
+**[🏸 Smurf Badminton Reserved](https://github.com/Bops0n/sps-badminton)**
 *Real-time Court Booking System*
 * **Tech:** Next.js, NextAuth, Proxy API
 * ระบบจองคอร์ดแบดมินตันที่เชื่อมต่อข้อมูล Real-time กับ External API
 
 ### 📱 Mobile & Desktop Apps
-**[🃏 The Black Jack](https://github.com/your-username/the-black-jack)**
+**[🃏 The Black Jack](https://github.com/Bops0n/the-black-jack)**
 *Android Mobile Game*
 * **Tech:** Java, Android SDK, XML Layouts
 * เกมไพ่ Blackjack บนมือถือ พัฒนาด้วย Native Android
 
-**[🚗 Club Car](https://github.com/your-username/club-car)**
+**[🚗 Club Car](https://github.com/Bops0n/club-car)**
 *Car Rental Management System*
 * **Tech:** Python, Tkinter, SQLite
 * โปรแกรมจัดการร้านเช่ารถบน Desktop พร้อมระบบคำนวณราคาและฐานข้อมูลรถ
 
-**[📦 BU Stock](https://github.com/your-username/bu-stock)**
+**[📦 BU Stock](https://github.com/Bops0n/bu-stock)**
 *Inventory Management System*
 * **Tech:** Java Swing, JDBC, SQLite
 * ระบบจัดการสต็อกสินค้า พัฒนาด้วย Java Swing เน้นการจัดการข้อมูลแม่นยำ
